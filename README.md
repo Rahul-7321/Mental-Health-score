@@ -151,6 +151,3 @@ Health check.
 
 ---
 
-## 📄 License
-
-Add a license of your choice here (e.g. MIT) if you plan to make this repository public.
